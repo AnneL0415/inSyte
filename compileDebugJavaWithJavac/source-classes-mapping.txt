@@ -1,0 +1,169 @@
+com/example/insyte/GraphSocialization.java
+ com.example.insyte.GraphSocialization
+ com.example.insyte.GraphSocialization$1
+ com.example.insyte.GraphSocialization$XAxisValues
+com/example/insyte/musicServices/LightStroll.java
+ com.example.insyte.musicServices.LightStroll
+com/example/insyte/ProgramViewHolder.java
+ com.example.insyte.ProgramViewHolder
+com/example/insyte/Answers.java
+ com.example.insyte.Answers
+com/example/insyte/Quote.java
+ com.example.insyte.Quote
+com/example/insyte/musicServices/BeachMusic.java
+ com.example.insyte.musicServices.BeachMusic
+com/example/insyte/InfoPass.java
+ com.example.insyte.InfoPass
+ com.example.insyte.InfoPass$1
+ com.example.insyte.InfoPass$2
+ com.example.insyte.InfoPass$3
+com/example/insyte/musicServices/ElvenForest.java
+ com.example.insyte.musicServices.ElvenForest
+com/example/insyte/Music.java
+ com.example.insyte.Music
+com/example/insyte/CheckInStart.java
+ com.example.insyte.CheckInStart
+ com.example.insyte.CheckInStart$1
+com/example/insyte/Hotlines.java
+ com.example.insyte.Hotlines
+ com.example.insyte.Hotlines$1
+ com.example.insyte.Hotlines$2
+ com.example.insyte.Hotlines$3
+com/example/insyte/AddNewTask.java
+ com.example.insyte.AddNewTask
+ com.example.insyte.AddNewTask$1
+ com.example.insyte.AddNewTask$2
+com/example/insyte/TimePickerFragment.java
+ com.example.insyte.TimePickerFragment
+com/example/insyte/Settings.java
+ com.example.insyte.Settings
+ com.example.insyte.Settings$1
+com/example/insyte/NotificationHelper.java
+ com.example.insyte.NotificationHelper
+com/example/insyte/GraphStress.java
+ com.example.insyte.GraphStress
+ com.example.insyte.GraphStress$1
+ com.example.insyte.GraphStress$XAxisValues
+com/example/insyte/musicServices/RiverMusic.java
+ com.example.insyte.musicServices.RiverMusic
+com/example/insyte/GraphDiet.java
+ com.example.insyte.GraphDiet
+ com.example.insyte.GraphDiet$1
+ com.example.insyte.GraphDiet$XAxisValues
+com/example/insyte/BuildConfig.java
+ com.example.insyte.BuildConfig
+com/example/insyte/JournalJournal.java
+ com.example.insyte.JournalJournal
+ com.example.insyte.JournalJournal$1
+ com.example.insyte.JournalJournal$2
+ com.example.insyte.JournalJournal$2$1
+com/example/insyte/Model/ToDoModel.java
+ com.example.insyte.Model.ToDoModel
+com/example/insyte/CheckInContract.java
+ com.example.insyte.CheckInContract
+ com.example.insyte.CheckInContract$QuestionsTable
+com/example/insyte/InfoDepression.java
+ com.example.insyte.InfoDepression
+com/example/insyte/MeditAdapter.java
+ com.example.insyte.MeditAdapter
+ com.example.insyte.MeditAdapter$1
+com/example/insyte/GraphSleep.java
+ com.example.insyte.GraphSleep
+ com.example.insyte.GraphSleep$1
+ com.example.insyte.GraphSleep$XAxisValues
+com/example/insyte/GraphExercise.java
+ com.example.insyte.GraphExercise
+ com.example.insyte.GraphExercise$1
+ com.example.insyte.GraphExercise$XAxisValues
+com/example/insyte/Notifs.java
+ com.example.insyte.Notifs
+com/example/insyte/AlertReceiver.java
+ com.example.insyte.AlertReceiver
+com/example/insyte/IntroViewPagerAdapter.java
+ com.example.insyte.IntroViewPagerAdapter
+ com.example.insyte.IntroViewPagerAdapter$IntroViewHolder
+com/example/insyte/DialogCloseListener.java
+ com.example.insyte.DialogCloseListener
+com/example/insyte/CheckInQuestions.java
+ com.example.insyte.CheckInQuestions
+ com.example.insyte.CheckInQuestions$1
+ com.example.insyte.CheckInQuestions$2
+com/example/insyte/NotificationReceiver.java
+ com.example.insyte.NotificationReceiver
+com/example/insyte/CheckIn.java
+ com.example.insyte.CheckIn
+ com.example.insyte.CheckIn$1
+ com.example.insyte.CheckIn$2
+com/example/insyte/JournalEditorActivity.java
+ com.example.insyte.JournalEditorActivity
+ com.example.insyte.JournalEditorActivity$1
+com/example/insyte/musicServices/Lullaby.java
+ com.example.insyte.musicServices.Lullaby
+com/example/insyte/Adapter/ToDoAdapter.java
+ com.example.insyte.Adapter.ToDoAdapter
+ com.example.insyte.Adapter.ToDoAdapter$1
+ com.example.insyte.Adapter.ToDoAdapter$ViewHolder
+com/example/insyte/Utils/DatabaseHandler.java
+ com.example.insyte.Utils.DatabaseHandler
+com/example/insyte/InfoCovid.java
+ com.example.insyte.InfoCovid
+com/example/insyte/musicServices/FarFuture.java
+ com.example.insyte.musicServices.FarFuture
+com/example/insyte/musicServices/Tranquility.java
+ com.example.insyte.musicServices.Tranquility
+com/example/insyte/JournalPass.java
+ com.example.insyte.JournalPass
+ com.example.insyte.JournalPass$1
+ com.example.insyte.JournalPass$2
+com/example/insyte/InfoStress.java
+ com.example.insyte.InfoStress
+com/example/insyte/Question.java
+ com.example.insyte.Question
+ com.example.insyte.Question$1
+com/example/insyte/JournalDraw.java
+ com.example.insyte.JournalDraw
+ com.example.insyte.JournalDraw$1
+ com.example.insyte.JournalDraw$2
+ com.example.insyte.JournalDraw$3
+ com.example.insyte.JournalDraw$4
+ com.example.insyte.JournalDraw$5
+ com.example.insyte.JournalDraw$6
+com/example/insyte/CheckInDbHelper.java
+ com.example.insyte.CheckInDbHelper
+com/example/insyte/musicServices/BirdsMusic.java
+ com.example.insyte.musicServices.BirdsMusic
+com/example/insyte/ScreenItem.java
+ com.example.insyte.ScreenItem
+com/example/insyte/RecyclerItemTouchHelper.java
+ com.example.insyte.RecyclerItemTouchHelper
+ com.example.insyte.RecyclerItemTouchHelper$1
+ com.example.insyte.RecyclerItemTouchHelper$2
+com/example/insyte/Meditation.java
+ com.example.insyte.Meditation
+com/example/insyte/ResultsGraphs.java
+ com.example.insyte.ResultsGraphs
+ com.example.insyte.ResultsGraphs$1
+ com.example.insyte.ResultsGraphs$2
+ com.example.insyte.ResultsGraphs$3
+ com.example.insyte.ResultsGraphs$4
+ com.example.insyte.ResultsGraphs$5
+ com.example.insyte.ResultsGraphs$6
+com/example/insyte/Goals.java
+ com.example.insyte.Goals
+ com.example.insyte.Goals$1
+com/example/insyte/MainActivity.java
+ com.example.insyte.MainActivity
+ com.example.insyte.MainActivity$1
+ com.example.insyte.MainActivity$10
+ com.example.insyte.MainActivity$2
+ com.example.insyte.MainActivity$3
+ com.example.insyte.MainActivity$4
+ com.example.insyte.MainActivity$5
+ com.example.insyte.MainActivity$6
+ com.example.insyte.MainActivity$7
+ com.example.insyte.MainActivity$8
+ com.example.insyte.MainActivity$9
+com/example/insyte/IntroScreens.java
+ com.example.insyte.IntroScreens
+ com.example.insyte.IntroScreens$1
+ com.example.insyte.IntroScreens$2
